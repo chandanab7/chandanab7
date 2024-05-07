@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing engineering in computer science and engineering (second year)
+I'm currently pursuing engineering in computer science (second year)
 
 
 ## 🌐 Socials:
