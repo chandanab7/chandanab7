@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing engineering in computer science (second year)
-
+I'm currently pursuing Third year engineering in computer science 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandanab83/) 
