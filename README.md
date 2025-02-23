@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Third year engineering in computer science 
+Hi there! My name is Chandana and I am currently a 3rd-year student in Computer Science Engineering at Mysuru Royal Institute of Technology. With a deep passion for technology and innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandanab83/) 
